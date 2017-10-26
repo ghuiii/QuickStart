@@ -1,3 +1,6 @@
+# Shell
+[![](https://badge.juejin.im/entry/576d6723128fe1005a21e835/likes.svg?style=flat)](https://juejin.im/entry/576d6723128fe1005a21e835/detail)
+
 Shell是一种编程语言, 它像其它编程语言如: C, Java, Python等一样也有变量/函数/运算符/if语句/循环控制/… 但在开始之前, 我想先理清*Shell语言与Shell*之间的关系.
 
 ## Shell与Shell语言
